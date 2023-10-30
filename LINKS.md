@@ -43,3 +43,6 @@ Metodologia elegida
 
 Metricas
 [Metricas](https://uvmx-my.sharepoint.com/:w:/g/personal/zs21013862_estudiantes_uv_mx/EcYNx-r6rpJBni4DVVvyXtEBBbtLw8bh8yR7KocE1agpLg?e=AM8cI6)
+
+Reporte investigacion de tecnologias para el arte
+[Investigacion-Arte](https://uvmx-my.sharepoint.com/:w:/g/personal/zs21013868_estudiantes_uv_mx/ERhLlCxgJRRGiwJoGFsi5osBBJBOgXgT8ZRrUECpMlU4jw?e=Y0n24F)
