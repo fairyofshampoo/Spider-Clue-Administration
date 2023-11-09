@@ -46,3 +46,11 @@ Metricas
 
 Reporte investigacion de tecnologias para el arte
 [Investigacion-Arte](https://uvmx-my.sharepoint.com/:w:/g/personal/zs21013868_estudiantes_uv_mx/ERhLlCxgJRRGiwJoGFsi5osBBJBOgXgT8ZRrUECpMlU4jw?e=Y0n24F)
+
+Riegos
+[Presentacion de Gestion de Riegos](https://www.canva.com/design/DAFzbXp8jJQ/NTA4NbPy7BpOe8nIHwNVxg/edit?utm_content=DAFzbXp8jJQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+[Tabla de Riegos](https://uvmx-my.sharepoint.com/:x:/g/personal/zs21013862_estudiantes_uv_mx/EbjM1jRptxBFlo_dw77iLQ0B3x3mt2zO2K0Qwr8Ed9o2RQ?e=t5rlZS)
+
+Investigacion sobre herramientas de prueba
+[Pruebas Investigacion](https://uvmx-my.sharepoint.com/:w:/g/personal/zs21013868_estudiantes_uv_mx/EV_xwuEI12hCktDP0hMGjEoBMD4AjtNSutZhM74SQQKixg?e=MZWXrd)
