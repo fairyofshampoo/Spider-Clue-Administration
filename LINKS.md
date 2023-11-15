@@ -49,3 +49,12 @@ Reporte investigacion de tecnologias para el arte
 
 Control de cambios
 [ControlCambios](https://uvmx-my.sharepoint.com/:x:/g/personal/zs21013862_estudiantes_uv_mx/EShI-4KwO9ZKnheKcfwchHABwFPWiW4ngLd92vnqhd_C6Q?e=dhe5Cy)
+
+Riesgos
+[Presentacion de Gestion de Riesgos](https://www.canva.com/design/DAFzbXp8jJQ/NTA4NbPy7BpOe8nIHwNVxg/edit?utm_content=DAFzbXp8jJQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+Tabla de riesgos
+[Tabla de Riesgos](https://uvmx-my.sharepoint.com/:x:/g/personal/zs21013862_estudiantes_uv_mx/EbjM1jRptxBFlo_dw77iLQ0B3x3mt2zO2K0Qwr8Ed9o2RQ?e=t5rlZS)
+
+Investigacion sobre herramientas de prueba
+[Pruebas Investigacion](https://uvmx-my.sharepoint.com/:w:/g/personal/zs21013868_estudiantes_uv_mx/EV_xwuEI12hCktDP0hMGjEoBMD4AjtNSutZhM74SQQKixg?e=MZWXrd)
