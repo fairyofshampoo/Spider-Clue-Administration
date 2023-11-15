@@ -46,3 +46,6 @@ Metricas
 
 Reporte investigacion de tecnologias para el arte
 [Investigacion-Arte](https://uvmx-my.sharepoint.com/:w:/g/personal/zs21013868_estudiantes_uv_mx/ERhLlCxgJRRGiwJoGFsi5osBBJBOgXgT8ZRrUECpMlU4jw?e=Y0n24F)
+
+Control de cambios
+[ControlCambios](https://uvmx-my.sharepoint.com/:x:/g/personal/zs21013862_estudiantes_uv_mx/EShI-4KwO9ZKnheKcfwchHABwFPWiW4ngLd92vnqhd_C6Q?e=dhe5Cy)
