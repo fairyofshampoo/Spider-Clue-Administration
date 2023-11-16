@@ -58,3 +58,6 @@ Tabla de riesgos
 
 Investigacion sobre herramientas de prueba
 [Pruebas Investigacion](https://uvmx-my.sharepoint.com/:w:/g/personal/zs21013868_estudiantes_uv_mx/EV_xwuEI12hCktDP0hMGjEoBMD4AjtNSutZhM74SQQKixg?e=MZWXrd)
+
+Investigacion sobre SonarQube
+[SonarQube](https://uvmx-my.sharepoint.com/:w:/g/personal/zs21013868_estudiantes_uv_mx/EZewLBGJlUlHufRetZ07VNEBwys2A4Z6s3-zIpqRkk7zVw?e=h2PCaV)
