@@ -61,3 +61,15 @@ Investigacion sobre herramientas de prueba
 
 Investigacion sobre SonarQube
 [SonarQube](https://uvmx-my.sharepoint.com/:w:/g/personal/zs21013868_estudiantes_uv_mx/EZewLBGJlUlHufRetZ07VNEBwys2A4Z6s3-zIpqRkk7zVw?e=h2PCaV)
+
+Manual de usuario
+[Manual](https://uvmx-my.sharepoint.com/:w:/g/personal/zs21013868_estudiantes_uv_mx/EXcjEHFNbvVFrVoyS3m5fVgBAH8eM8KKBIHZUmytWUolyA?e=zzYd5g)
+
+Generación de equipo de alto desempeño
+[Equipo de alto](https://uvmx-my.sharepoint.com/:w:/g/personal/zs21013859_estudiantes_uv_mx/EdRVN3n223ROlGyMTpwZbxABTJl4DWHQFTiEqyyitJLOBA?e=Cwle11)
+
+Enfoques de calidad
+[Resumen de enfoques de calidad](https://uvmx-my.sharepoint.com/:w:/g/personal/zs21013868_estudiantes_uv_mx/EQjpssdl1gpLtJCb-pniJvIBH8fBwEfTudhDCnVG521j_A?e=YP5G7g)
+
+Plan de aseguramiento de calidad
+[Plan SQA](https://uvmx-my.sharepoint.com/:w:/g/personal/zs21013887_estudiantes_uv_mx/EeQLOJls7JpEtFToLNQhxBEByDyMtL-mtcOvUD1SyAdwWA?e=mGOuQ0)
