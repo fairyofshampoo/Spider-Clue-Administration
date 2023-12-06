@@ -1,2 +1,3 @@
 # BAHUATLA
 Conjunto de entregables de nuestro proyecto
+Spider-Clue se presenta como una iniciativa educativa e innovadora con el objetivo de digitalizar el reconocido juego de mesa "CLUEDO". Este proyecto no solo ofrece una oportunidad excepcional para que los estudiantes de la Facultad de Estadística e Informática apliquen y fortalezcan sus conocimientos en desarrollo de software, sino que también representa un desafío apasionante.

@@ -1,4 +1,4 @@
-LINKS
+LINKS A DOCUMENTOS QUE INTEGRAN PARTE FUNDAMENTAL DEL PROYECTO
 
 Trello:
 [Trello](https://trello.com/invite/b/5gZNWH8o/ATTIf446720742e8ecb657f1c6b6544742c3B22FE67F/bahuatla)
@@ -73,3 +73,12 @@ Enfoques de calidad
 
 Plan de aseguramiento de calidad
 [Plan SQA](https://uvmx-my.sharepoint.com/:w:/g/personal/zs21013887_estudiantes_uv_mx/EeQLOJls7JpEtFToLNQhxBEByDyMtL-mtcOvUD1SyAdwWA?e=mGOuQ0)
+
+Estándar de codificación
+[Estandar de codificacion](https://uvmx-my.sharepoint.com/:w:/g/personal/zs21013862_estudiantes_uv_mx/EWiJu3oZlXdFuwl8nBwkQHMBdr_nl4F_pKZsOiLdwIZmbg?e=TRr7uV)
+
+Propuesta del juego
+[Propuesta inicial](https://uvmx-my.sharepoint.com/:w:/g/personal/zs21013859_estudiantes_uv_mx/EYlteYDbgfhHtfuF-wv0Oj8Bp9SaSYJBi8Gi4TGSYecq4g?e=AJkR7m)
+
+Plan de pruebas
+[Plan de pruebas](https://uvmx-my.sharepoint.com/:w:/g/personal/zs21013859_estudiantes_uv_mx/EWAjW-UEDLdNu1ImRGeFSMoBkLm06GQssjcC9blw4p9bAA?e=YZldyj)
