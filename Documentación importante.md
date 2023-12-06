@@ -82,3 +82,6 @@ Propuesta del juego
 
 Plan de pruebas
 [Plan de pruebas](https://uvmx-my.sharepoint.com/:w:/g/personal/zs21013859_estudiantes_uv_mx/EWAjW-UEDLdNu1ImRGeFSMoBkLm06GQssjcC9blw4p9bAA?e=YZldyj)
+
+Documento de gestión de cambio
+[Gestion de cambio](https://uvmx-my.sharepoint.com/:w:/g/personal/zs21013868_estudiantes_uv_mx/ES2jauS0HF1Ate2tfxXfNtoBpWTvGhJvMrOwRKMhHPLhCQ?e=AyzFol)
